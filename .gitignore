@@ -1,0 +1,10 @@
+*__pycache__
+*.pyc
+*geckodriver.log
+*Pipfile
+*Pipfile.lock
+*.env
+.env
+*.xlsx
+*PyWhatKit_DB.txt
+*imagenes
